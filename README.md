@@ -1,3 +1,14 @@
+## RS Clone - Final project
+
+# RS-School / JS-2020Q3 / Tenth Task
+
+## Deploy:   ***https://nfc-jsu.netlify.app/***
+
+
+Task: ***https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md***
+
+Score: 480 / 480
+
 # Need for Code: Java Script Unleashed
 
 # Building and Running the App
